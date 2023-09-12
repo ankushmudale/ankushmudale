@@ -45,5 +45,5 @@ Here are some notable projects I've worked on:
 
 ## Contact
 
-Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ankush-mudale/) to discuss opportunities or explore my [GitHub](https://github.com/ankushmudale) for more of my projects. You can also visit my [portfolio](https://www.yourportfolio.com/ankushmudale) to dive deeper into some of my projects. I'm always eager to learn and contribute to exciting DevOps initiatives. Let's work together to achieve your goals!
+Let's connect and collaborate! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ankush-mudale/) to discuss opportunities or explore my [GitHub](https://github.com/ankushmudale) for more of my projects. I'm always eager to learn and contribute to exciting DevOps initiatives. Let's work together to achieve your goals!
 
