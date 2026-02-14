@@ -5,7 +5,7 @@
 
 ## About Me
 
-Hello! I'm Ankush Ramrao Mudale, a dedicated DevOps Engineer with 3 years of hands-on experience in the industry. My passion lies in optimizing software development processes, enhancing system reliability, and automating infrastructure to accelerate the delivery of high-quality applications.
+Hello! I'm Ankush Ramrao Mudale, a dedicated DevOps Engineer with 3+ years of hands-on experience in the industry. My passion lies in optimizing software development processes, enhancing system reliability, and automating infrastructure to accelerate the delivery of high-quality applications.
 
 ## Skills
 
